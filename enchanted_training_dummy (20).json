@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "category": "misc", "pattern": ["H", "L", "P"], "key": {"H": {"item": "minecraft:hay_block"}, "L": {"item": "minecraft:lapis_lazuli"}, "P": {"item": "minecraft:oak_planks"}}, "result": {"item": "looksmaxxing:enchanted_training_dummy"}}

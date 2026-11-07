@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "category": "misc", "pattern": ["PP", "PP", "II"], "key": {"P": {"item": "minecraft:glass_pane"}, "I": {"item": "minecraft:iron_ingot"}}, "result": {"item": "looksmaxxing:full_length_mirror"}}

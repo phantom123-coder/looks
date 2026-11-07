@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "category": "equipment", "pattern": ["ISI"], "key": {"I": {"item": "minecraft:iron_ingot"}, "S": {"item": "minecraft:stick"}}, "result": {"item": "looksmaxxing:resistance_dumbbells", "count": 1}}

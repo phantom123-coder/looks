@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="looksmaxxing"
+version="0.4.0"
+displayName="LOOKSMAXXING: From SUB3 to TRUE ADAM"
+description='''
+Satirical looksmaxxing RPG: ranks from SUB3 to TRUE ADAM, a fictional 1-8 rating, fitness progression and more.
+'''
+
+[[dependencies.looksmaxxing]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.looksmaxxing]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

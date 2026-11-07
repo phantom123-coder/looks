@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "looksmaxxing:block/full_length_mirror"}, "facing=east": {"model": "looksmaxxing:block/full_length_mirror", "y": 90}, "facing=south": {"model": "looksmaxxing:block/full_length_mirror", "y": 180}, "facing=west": {"model": "looksmaxxing:block/full_length_mirror", "y": 270}}}
